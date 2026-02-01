@@ -6,6 +6,12 @@ This project explores a e-commerce dataset to analyze pricing structures and dis
 ## Research Question
 * **Primary Inquiry**: How is product pricing distributed across the platform, and is there a discernible relationship between product prices and the discounts applied?
 
+## Data Source
+The dataset used in this analysis is sourced from **Kaggle**:
+* **Dataset Name**: E-commerce Dataset (Updated)
+* **Author/Source**: [Steve Rogg via Kaggle](https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset)
+* **Description**: This is a collection of fictional e-commerce transaction data including categories, prices, discounts, and payment methods. It is designed for practicing data science techniques such as statistical analysis and predictive modeling.
+
 ## Project Structure
 
 The project directory is organized as follows:

@@ -10,7 +10,7 @@ This project explores a e-commerce dataset to analyze pricing structures and dis
 
 The project directory is organized as follows:
 
-```text
+```
 Group Presentation 1/
 ├── GPvenv/                 # Virtual environment (Python 3.x)
 ├── data/                   # Data source directory
@@ -19,6 +19,7 @@ Group Presentation 1/
 ├── Presentation_1.ipynb    # Main Jupyter Notebook for analysis & presentation
 ├── requirements.txt        # List of Python dependencies for reproduction
 └── README.md               # Project documentation and setup guide
+```
 
 ## Statistical Summary
 Based on the analysis of 50,000 transaction records, the following key metrics were calculated for **Price (Rs.)**:

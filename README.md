@@ -1,7 +1,7 @@
 # E-commerce Data Exploration & Statistical Analysis
 
 ## Project Overview
-This project focuses on the exploratory data analysis (EDA) of a fictional e-commerce dataset. The primary objective is to investigate pricing structures, discount distributions, and purchasing patterns using various statistical methods and visualizations as part of the PROG8431 course requirements.
+This project explores a e-commerce dataset to analyze pricing structures and discount distributions. By calculating key statistics like mean and standard deviation, we identify market trends. Visualizations, including scatter plots and Venn diagrams, help illustrate the relationship between product categories and customer purchasing behaviors.
 
 ## Research Question
 * **Primary Inquiry**: How is product pricing distributed across the platform, and is there a discernible relationship between product prices and the discounts applied?

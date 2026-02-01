@@ -17,6 +17,7 @@ Based on the analysis of 50,000 transaction records, the following key metrics w
 | **Variance** | 20073.97 |
 | **Standard Deviation** | 141.68 |
 | **Q1 (25%)** | 134.01 |
+| **Q2 (50%)** | 253.84 |
 | **Q3 (75%)** | 377.60 |
 | **Q4 (Max)** | 499.96 |
 

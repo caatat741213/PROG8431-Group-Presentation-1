@@ -6,6 +6,17 @@ This project explores a e-commerce dataset to analyze pricing structures and dis
 ## Research Question
 * **Primary Inquiry**: How is product pricing distributed across the platform, and is there a discernible relationship between product prices and the discounts applied?
 
+## Project Structure
+
+Group Presentation 1/
+├── GPvenv/             # Virtual environment (Excluded via .gitignore)
+├── data/               # Data source folder
+│   └── ecommerce_dataset_updated.csv
+├── requirements.txt    # Project dependencies
+├── .gitignore          # Git exclusion rules
+├── README.md           # Project documentation
+└── Presentation_1.ipynb # Core analysis and visualizations
+
 ## Statistical Summary
 Based on the analysis of 50,000 transaction records, the following key metrics were calculated for **Price (Rs.)**:
 

@@ -1,34 +1,40 @@
 # E-commerce Data Exploration & Statistical Analysis
 
 ## Project Overview
-[cite_start]This project focuses on the exploratory data analysis (EDA) of a fictional e-commerce dataset[cite: 4]. [cite_start]The primary objective is to investigate pricing structures, discount distributions, and purchasing patterns using various statistical methods and visualizations[cite: 21].
+This project focuses on the exploratory data analysis (EDA) of a fictional e-commerce dataset. The primary objective is to investigate pricing structures, discount distributions, and purchasing patterns using various statistical methods and visualizations as part of the PROG8431 course requirements.
 
 ## Research Question
-* [cite_start]**Primary Inquiry**: How is product pricing distributed across the platform, and is there a significant correlation between product prices and the discounts applied to them? [cite: 4]
+* **Primary Inquiry**: How is product pricing distributed across the platform, and is there a discernible relationship between product prices and the discounts applied?
 
 ## Statistical Summary
-[cite_start]Based on the analysis of 50,000 transaction records, the following key metrics were identified for Product Price (Rs.): [cite: 8, 9, 11]
-* **Mean**: 254.80
-* **Median**: 253.84
-* **Mode**: 185.53
-* **Standard Deviation**: 141.68
-* **Quartiles**: Q1: 134.01 | Q2: 253.84 | Q3: 377.60 | Q4 (Max): 499.96
+Based on the analysis of 50,000 transaction records, the following key metrics were calculated for **Price (Rs.)**:
+
+| Metric | Value |
+| :--- | :--- |
+| **Mean** | 254.80 |
+| **Median** | 253.84 |
+| **Mode** | 185.53 |
+| **Variance** | 20073.97 |
+| **Standard Deviation** | 141.68 |
+| **Q1 (25%)** | 134.01 |
+| **Q3 (75%)** | 377.60 |
+| **Q4 (Max)** | 499.96 |
 
 ## Visualizations Explained
-[cite_start]The following charts were implemented in the Jupyter Notebook to explore the data: [cite: 10, 12]
+The following charts were implemented to provide a comprehensive view of the data:
 
-1. **Histogram**: Illustrates the shape of the price distribution. [cite_start]The symmetric curve suggests a balanced variety of product prices[cite: 10].
-2. [cite_start]**Box-whisker Plot**: Highlights the interquartile range (IQR) and confirms the absence of extreme outliers in the pricing model[cite: 10].
+1. **Histogram**: Visualizes the price distribution. The symmetric shape indicates that products are evenly spread across different price points.
+2. **Box-whisker Plot**: Highlights the Interquartile Range (IQR) and confirms that there are no significant outliers in the dataset.
 
-3. **Scatter Plot**: Analyzes the relationship between Price and Discount. [cite_start]The random distribution indicates no direct correlation between an item's cost and its discount percentage[cite: 10].
-4. [cite_start]**Venn Diagram**: Displays the overlap between high-priced items and high-discount items to evaluate promotional balance[cite: 10].
+3. **Scatter Plot**: Explores the correlation between Price and Discount. The random distribution suggests that discounts are not strictly dependent on the item's price.
+4. **Venn Diagram**: Analyzes the intersection between "High Price" (above median) and "High Discount" categories to visualize promotional trends.
 
 ## 50-Word Summary
-[cite_start]This analysis investigates an e-commerce dataset containing 50,000 transactions[cite: 13]. [cite_start]Statistical results show a symmetric distribution with a mean price of 254.80[cite: 11]. [cite_start]Visualizations reveal that discounts are applied uniformly across all price ranges, as the scatter plot shows no strong correlation, and the Venn diagram illustrates a balanced overlap between high-priced and high-discount items[cite: 13].
+This analysis investigates an e-commerce dataset containing 50,000 transactions. Statistical results show a symmetric distribution with a mean price of 254.80. Visualizations reveal that discounts are applied uniformly across all price ranges, as the scatter plot shows no strong correlation, and the Venn diagram illustrates a balanced overlap between high-priced and high-discount items.
 
 ## Setup and Installation
 To run this project locally, please follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <https://github.com/caatat741213/PROG8431-Group-Presentation-1.git>
+   git clone [https://github.com/caatat741213/PROG8431-Group-Presentation-1.git](https://github.com/caatat741213/PROG8431-Group-Presentation-1.git)

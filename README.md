@@ -18,7 +18,6 @@ The project directory is organized as follows:
 
 ```
 Group Presentation 1/
-├── GPvenv/                 # Virtual environment (Python 3.x)
 ├── data/                   # Data source directory
 │   └── ecommerce_dataset_updated.csv  # Raw e-commerce transaction data
 ├── .gitignore              # Specifies files and folders for Git to ignore
